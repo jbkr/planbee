@@ -28,10 +28,7 @@ const NavBar = () => {
         }}
       >
         <Menu
-<<<<<<< HEAD
           onClick={onClick}
-=======
->>>>>>> 849bff7f749705a862f337467db64d268a63f873
           theme="dark"
           mode="horizontal"
           defaultSelectedKeys={['0']}
