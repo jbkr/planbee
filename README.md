@@ -1,3 +1,9 @@
 # PlanBee Project
 
-Organise your plans easily
+Organise your plans more easily
+
+## multi-layered planners
+As many as you want, you can make your individual planners.
+
+## Adding Plan B
+For contingency events, you can append plan b to existing plan.
