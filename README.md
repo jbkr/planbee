@@ -2,7 +2,7 @@
 
 Organise your plans more easily
 
-## multi-layered planners
+## multi-layered planner
 As many as you want, you can make your individual planners.
 
 ## Adding Plan B
